@@ -1,1 +1,50 @@
-/* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:wght@700;800&family=Roboto+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital,wght@0,700;1,400&display=swap');
+
+a {
+    text-decoration: none;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+    color: #663333;
+    text-align: center;
+    background-color: #ffcccc;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: inline-block;
+    
+}
+
+body {
+    background-color: #663333;
+    text-align: center;
+    
+}
+
+h1 {
+
+   font-family: 'Andada Pro', serif;
+   color: #ffcccc;
+   text-align: center;
+   line-height: 20px;
+   font-size: 50px;
+}
+
+p {
+    color: #ffcccc;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    
+}
+
+a:hover {
+    background-color:white;
+ }
+  
+ h2 {
+     font-family: 'Andada Pro', serif;
+     color: #996666;
+ }
+    
